@@ -40,7 +40,11 @@ The system uses role-based authentication. Demo credentials:
 
 ---
 
-## 🚀 Deployment Link (Local Development)
+## 🚀 Deployment Link
+
+**Live Deployment:** https://f5pdj1nm9wqo.devv.app/
+
+**Local Development:**
 This is a local development project. To run:
 
 1. Set up a local server (e.g., XAMPP, WAMP) with PHP and MySQL.
@@ -48,7 +52,4 @@ This is a local development project. To run:
 3. Import the `sample_data.sql` file to populate the database with sample data.
 4. Update database credentials in `config/db.php` if needed.
 5. Access via `http://localhost/schoolms/public/index.php`
-
-*(No live deployment link available for this project.)*
-
 ---
